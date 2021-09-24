@@ -1,0 +1,22 @@
+*{
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.box{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.container{
+    border: 2px solid black;
+    text-align: center;
+    margin-right: 30%;
+    margin-left: 30%;
+    background-color: rgb(43, 91, 180);
+}
+
+.button{
+    height: 20px;
+    background-color: rgb(28, 241, 0);
+}
